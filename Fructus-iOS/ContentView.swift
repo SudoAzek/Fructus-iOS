@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Fructus
+//  Fructus-iOS
 //
 //  Created by Azamat Ochilov on 2021/06/11.
 //
